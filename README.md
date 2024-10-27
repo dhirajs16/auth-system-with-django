@@ -1,2 +1,6 @@
-# auth-system-with-django
-This is the most simple way of making an authentication system (signup and login) with protected routes aka views in django.
+# Different sorts of Authentication System with Django
+
+### **Basic Auth**
+- Simple sign up, login & password change functionality.
+- Used built in auth forms (AuthenticationForm, PasswordChangeForm & SetPasswordForm) and auth user model
+<hr>
